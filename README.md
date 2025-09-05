@@ -3,6 +3,15 @@
 
 Dashboard Preview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28693196-3003-43db-8a5b-c8715779b0ff" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77a3e161-91e9-4ae1-81c4-1762840273ec" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf15fd43-5043-4a10-89b7-198e878ce0b6" />
+
+
+
 # 🚀 Key Features
 
 📦 Order Insights – Track order counts, frequency, and peak timings
